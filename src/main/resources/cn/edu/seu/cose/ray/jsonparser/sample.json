@@ -1,0 +1,11 @@
+// Copyright (C) 2013 rAy <predator.ray@gmail.com>
+{
+    "author": "rAy <predator.ray@gmail.com>",
+    "course": "Compile Principles",
+    "this is": "parser assignment",
+    "foo": {
+        "foo1": "bar1",
+        "foo2": "bar2",
+        "foo3": ["a", "b", "c", "d"]
+    }
+}
